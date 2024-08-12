@@ -2,16 +2,5 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
-  - statsmodels
-  - netCDF4
-  - Cartopy
+  - python
   - pip
-  - pip:
-    - holteandtalley
-    - datetime
-    - seawater
-    - julian
-    - datetime
-    - lmfit
-    - pysolar
-    - suntime
