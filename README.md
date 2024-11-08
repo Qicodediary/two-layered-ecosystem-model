@@ -1,5 +1,5 @@
 # two-layered-ecosystem-model
-This GitHub repository is associated with the manuscript by Zheng et al., titled “A Two-Layered Ecosystem Model for the Stratified Ocean.” 
+This GitHub repository is associated with the manuscript by Zheng et al., titled “Simulating vertical phytoplankton dynamics in a stratified ocean using a two-layered ecosystem model” 
 
 The repository contains Jupyter notebooks that demonstrate how to run the two-layered ecosystem model developed in the study. 
 
